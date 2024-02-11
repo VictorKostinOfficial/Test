@@ -1,7 +1,6 @@
 #include <vector>
 #include <list>
 
-// TASK 2
 template <typename V>
 class FirstRingBuffer {
 public:
